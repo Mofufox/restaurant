@@ -1,0 +1,50 @@
+[
+  {
+    "id": "r1",
+    "name": "Bar",
+    "address": "sdfgsd",
+    "cuisine": "Maxican",
+    "website": "https://www.maxican.com",
+    "description": "adsadssg"
+  },
+  {
+    "id": "r2",
+    "name": "mamas",
+    "address": "mamastrasse",
+    "cuisine": "hungarian",
+    "website": "https://www.mamas.com",
+    "description": "dshklfh\r\n"
+  },
+  {
+    "id": "r3",
+    "name": "new restaurant",
+    "address": "new address",
+    "cuisine": "new style",
+    "website": "https://www.mamas.com",
+    "description": "daf"
+  },
+  {
+    "name": "Ariel",
+    "address": "Astreet",
+    "cuisine": "A type",
+    "website": "https://www.ariels.com",
+    "description": "ffggag",
+    "id": "26d9fe02-bdc1-4bf2-b44c-4374bd878bd1"
+  },
+  {
+    "name": "fgh",
+    "address": "fgh",
+    "cuisine": "fgh",
+    "website": "https://www.fgh.com",
+    "description": "fgh",
+    "id": "efd66fe2-92d7-412c-b6d8-95c10d93c786"
+  },
+  {
+    "name": "f",
+    "address": "f",
+    "cuisine": "f",
+    "website": "https://www.hh.com",
+    "description": "f",
+    "id": "eac7f7e0-b192-409d-8d9f-a9d59a12bbf3"
+  }
+]

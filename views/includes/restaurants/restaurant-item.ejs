@@ -1,0 +1,15 @@
+        <li class="restaurant-item">
+          <article>
+            <h2><%= restaurantItem.name %></h2>
+            <div class="restaurant-meta">
+              <p><%= restaurantItem.cuisine %></p>
+              <p><%= restaurantItem.address %></p>
+            </div>
+            <p>
+              <p><%= restaurantItem.description %></p>
+            </p>
+            <div class="restaurant-actions">
+              <a href="/restaurants/<%= restaurantItem.id %>">View Restaurant</a>
+            </div>
+          </article>
+        </li>
